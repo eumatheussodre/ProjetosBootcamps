@@ -1,0 +1,4 @@
+# requirements.txt
+
+# Nenhuma dependência externa necessária até o momento.
+# O código utiliza apenas bibliotecas padrão do Python.
